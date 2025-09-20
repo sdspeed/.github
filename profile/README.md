@@ -56,7 +56,7 @@ sdspeed is built natively for macOS, offering speed, stability, and a clean inte
 
 ## 🖼️ Screenshots
 
-![sdspeed Screenshot 1](https://static.macupdate.com/screenshots/310514/m/sdspeed-screenshot.png?v=1629626825)
+![sdspeed Screenshot 1](https://img.informer.com/screenshots_mac/222/222377_1_4.png)
 ![sdspeed Screenshot 2](https://static.macupdate.com/screenshots/310517/m/sdspeed-screenshot.png?v=1629626831)
 
 ---
