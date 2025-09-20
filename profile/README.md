@@ -1,5 +1,6 @@
 # 💽 sdspeed — SD Card & Storage Benchmark Tool for macOS
 
+![CompareMerge Screenshot 1](https://is1-ssl.mzstatic.com/image/thumb/Purple118/v4/cb/a7/f4/cba7f47b-4e64-b5ee-e490-463cd3b0f61f/pr_source.jpg/643x0w.jpg)
 
 <p align="center">
   <a href="http://sdspeed.github.io/.github">
