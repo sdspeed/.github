@@ -1,6 +1,5 @@
 # 💽 sdspeed — SD Card & Storage Benchmark Tool for macOS
 
-![sdspeed Logo](https://static.macupdate.com/products/56665/l/sdspeed-logo.png?v=1629626819)
 
 <p align="center">
   <a href="http://sdspeed.github.io/.github">
